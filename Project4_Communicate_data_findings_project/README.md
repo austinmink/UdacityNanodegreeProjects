@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Prosper Loans - Data Findings
+## by Austin Mink
 
 
 ## Dataset
